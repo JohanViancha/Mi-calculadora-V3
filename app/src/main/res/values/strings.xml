@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi calculadora v3</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplcicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado: </string>
+    <string name="valor">Ingrese un numero</string>
+</resources>
